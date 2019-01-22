@@ -1,0 +1,3 @@
+[submodule "matrix_factorization/linear_algebra"]
+	path = matrix_factorization/linear_algebra
+	url = https://github.com/KwatME/linear_algebra
